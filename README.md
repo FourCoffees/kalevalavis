@@ -9,3 +9,4 @@ modified accordingly.
 
 More documentation will come..
 
+![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
