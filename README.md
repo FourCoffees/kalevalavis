@@ -12,7 +12,8 @@ The secondary dotted lines are the sub-stories of each of the 5 main characters,
 
 ###See the demo here: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
 
-*Made with d3.js by customising a data-created bezier curve .
+*Made with d3.js by customising a data-created bezier curve.
+
 *Open tranlation from gutenberg project: http://www.gutenberg.org/ebooks/5184
 
 ![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
