@@ -26,7 +26,7 @@ a:hover{
 }
 
 #container{
-	margin: 40px 3% 40px 3%;
+	margin: 40px auto 40px auto;
 }
 
 
@@ -60,14 +60,14 @@ a:hover{
 }
 
 #titleContainer{
-	float: left;
+	/*float: left;*/
 	margin: 0 auto;
 	margin-bottom: 40px; /*Distance from visualisation*/
 	overflow: hidden;
-	margin-top: -100px;
+	/*margin-top: -100px;*/
 	zoom: 1;
-position: relative;
-display: block;
+	position: relative;
+	display: block;
 }
 
 #visualisationTitle{
@@ -235,7 +235,7 @@ g.titles{
 
 
 #topLine {
-	margin-top: 10%;
+	margin-top: 0%;
 	margin-bottom: 10%;
 
 }
@@ -394,11 +394,11 @@ figure {
               backface-visibility: hidden;
     }
 
-    #cube .front  { background: url('data/front.png') no-repeat center; }
+    #cube .front  { background: url('front.png') no-repeat center; }
     #cube .back   { background: hsla(  0, 0%, 0%, 0 ); }
-    #cube .right  { background: url('data/right.png') no-repeat center; }
+    #cube .right  { background: url('right.png') no-repeat center; }
     #cube .left   { background: hsla( 0, 0%, 0%, 0 ); }
-    #cube .top    { background: url('data/top.png') no-repeat center; }
+    #cube .top    { background: url('top.png') no-repeat center; }
     #cube .bottom { background: hsla( 0, 0%, 0%, 0 ); }
 
     #cube .front  {
