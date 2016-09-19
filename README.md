@@ -12,9 +12,7 @@ You can see the highlights of the storyline in the curve's extremes.
 
 The secondary dotted lines are the sub-stories of each of the 5 main characters, appearing when the text refer's to them.
 
-See the demo here:
-
-[Absolute README link](http://fourcoffees.github.io/kalevalavis/)
+See the demo here: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
 
 Technically the curve is a bezier curve (path) and the control points are 
 modified accordingly.
