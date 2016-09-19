@@ -1,6 +1,8 @@
 # Kalevalavis
 
 ### Kalevalavis is a text visualisation of the english translation of the Kalevala finnish epic. 
+###  demo here: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
+
 
 The Kalevala book is sampled and broken into chunks that are then checked for words that usually represent the classical duality between 'good' and 'evil'.
 
@@ -10,10 +12,7 @@ The visualisation curve grows to the left or the right for each verse of the poe
 
 The secondary dotted lines are the sub-stories of each of the 5 main characters, appearing when the text refer's to them.
 
-###See the demo here: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
-
 *Made with d3.js by customising a data-created bezier curve.
-
 *Open tranlation from gutenberg project: http://www.gutenberg.org/ebooks/5184
 
 ![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
