@@ -1,6 +1,6 @@
-# kalevalavis
-Code for kalevalavis.com
-This is a customisation of a data-created curve using d3.js. 
+# Kalevalavis
+
+## Kalevalavis is a text visualisation of the english translation of the Kalevala finnish epic. 
 
 The Kalevala book is sampled and broken into chunks that are then checked for words that usually represent the classical duality between 'good' and 'evil'.
 
@@ -14,9 +14,7 @@ The secondary dotted lines are the sub-stories of each of the 5 main characters,
 
 See the demo here: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
 
-Technically the curve is a bezier curve (path) and the control points are 
-modified accordingly.
+* Made with d3.js by customising a data-created bezier curve .
 
-More documentation will come..
 
 ![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
