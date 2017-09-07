@@ -1,8 +1,8 @@
 # Kalevalavis
 
 ### Kalevalavis is a text visualisation of the Kalevala finnish epic.  
-###demo: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
-
+#### live demo: [fourcoffees.github.io/kalevalavis](http://fourcoffees.github.io/kalevalavis/)
+#### research text (http://fourcoffees.github.io/kalevalavis/DigitalNarratives-Three Experiments on the Kalevala.pdf)
 
 The Kalevala book is sampled and broken into chunks that are then checked for words that usually represent the classical duality between 'good' and 'evil'.
 
