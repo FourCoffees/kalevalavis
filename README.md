@@ -16,4 +16,5 @@ The secondary dotted lines are the sub-stories of each of the 5 main characters,
 
 #### Reflection text on this project and the other two digital narrative experiements with the Kalevala can be [found here](http://fourcoffees.github.io/kalevalavis/DigitalNarratives-Three%20Experiments%20on%20the%20Kalevala.pdf).
 
+   
 ![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
