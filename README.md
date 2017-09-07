@@ -14,9 +14,12 @@ The secondary dotted lines are the sub-stories of each of the 5 main characters,
 
 #### Reflection text on this project and the other two digital narrative experiements with the Kalevala can be [found here](http://fourcoffees.github.io/kalevalavis/DigitalNarratives-Three%20Experiments%20on%20the%20Kalevala.pdf).
 
-   Made with d3.js by customising a data-created bezier curve.  
-   Open translation from [gutenberg project]( http://www.gutenberg.org/ebooks/5184).  
 
 
    
 ![alt tag](https://raw.githubusercontent.com/FourCoffees/kalevalavis/master/exampleImge.png)
+
+
+
+   Made with d3.js by customising a data-created bezier curve.  
+   Open translation from [gutenberg project]( http://www.gutenberg.org/ebooks/5184).  
